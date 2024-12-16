@@ -39,6 +39,20 @@ src/
 ├── index.js            # Точка входа в приложение
 
 6. Скриншоты и структура интерфейса:
-  - ![Снимок экрана 2024-12-16 в 19 25 37](https://github.com/user-attachments/assets/48564bc7-9bdd-410c-a9f1-204bb26a0af7)
-  - ![Снимок экрана 2024-12-16 в 19 26 14](https://github.com/user-attachments/assets/59925739-916c-48dc-be55-c50732f90d5f)
-  - ![Снимок экрана 2024-12-16 в 19 25 49](https://github.com/user-attachments/assets/7a2b1743-eeeb-402f-add5-090c49c0d876)
+  - ![Снимок экрана 2024-12-16 в 19 59 41](https://github.com/user-attachments/assets/49e32fd7-3027-4b04-b4d3-e70ccde0e7f6)
+  - ![Снимок экрана 2024-12-16 в 20 00 44](https://github.com/user-attachments/assets/1e8c4c67-e802-4899-b29b-1126ef4ca6c2)
+  - ![Снимок экрана 2024-12-16 в 20 01 18](https://github.com/user-attachments/assets/96fc45cb-de54-407f-884a-48cc12b87d39)
+  - ![Снимок экрана 2024-12-16 в 20 01 36](https://github.com/user-attachments/assets/843fcdbf-367f-4905-aaf6-4ace5703cffb)
+
+
+
+
+
+
+
+
+
+
+
+
+
