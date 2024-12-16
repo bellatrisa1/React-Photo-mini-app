@@ -1,0 +1,105 @@
+{
+  "categories": [
+    { "name": "Эдинбург" },
+    { "name": "Нью-Йорк" },
+    { "name": "Лондон" },
+    { "name": "Санкт-Петербург" },
+    { "name": "Сеул" },
+    { "name": "Милан" },
+    { "name": "Токио" },
+    { "name": "Прага" },
+    { "name": "Париж" }
+  ],
+  "collections": [
+    {
+      "category": 1,
+      "name": "Эдинбург",
+      "photos": [
+        "./img/ed1.jpg",
+        "./img/ed2.jpg",
+        "./img/ed3.jpg",
+        "./img/ed4.jpg"
+      ]
+    },
+    {
+      "category": 2,
+      "name": "Нью-Йорк",
+      "photos": [
+        "./img/ny1.jpg",
+        "./img/ny2.jpg",
+        "./img/ny3.jpg",
+        "./img/ny4.jpg"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Лондон",
+      "photos": [
+        "./img/L1.jpg",
+        "./img/L2.jpg",
+        "./img/L3.jpg",
+        "./img/L4.jpg"
+      ]
+    },
+    {
+      "category": 4,
+      "name": "Санкт-Петербург",
+      "photos": [
+        "./img/spb1.jpg",
+        "./img/spb2.jpg",
+        "./img/spb3.jpg",
+        "./img/spb4.jpg"
+      ]
+    },
+    {
+      "category": 5,
+      "name": "Сеул",
+      "photos": [
+        "./img/s1.jpg",
+        "./img/s2.jpg",
+        "./img/s3.jpg",
+        "./img/s4.jpg"
+      ]
+    },
+    {
+      "category": 6,
+      "name": "Милан",
+      "photos": [
+        "./img/m1.jpg",
+        "./img/m2.jpg",
+        "./img/m3.jpg",
+        "./img/m4.jpg"
+      ]
+    },
+    {
+      "category": 7,
+      "name": "Токио",
+      "photos": [
+        "./img/t1.jpg",
+        "./img/t2.jpg",
+        "./img/t3.jpg",
+        "./img/t4.jpg"
+      ]
+    },
+    {
+      "category": 8,
+      "name": "Прага",
+      "photos": [
+        "./img/pr1.jpg",
+        "./img/pr2.jpg",
+        "./img/pr3.jpg",
+        "./img/pr4.jpg"
+      ]
+    },
+    {
+      "category": 9,
+      "name": "Париж",
+      "photos": [
+        "./img/p1.jpg",
+        "./img/p2.jpg",
+        "./img/p3.jpg",
+        "./img/p4.jpg"
+      ]
+    }
+  ]
+}
